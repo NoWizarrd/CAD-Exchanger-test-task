@@ -17,7 +17,7 @@ const ContactForm: FC<ContactFormProps> = ({ onResponse }) => {
 
     try {
       const response = await axios.post(
-        'http://localhost:5000/submit',
+        '/.netlify/functions/submitForm',
         { name, email, message },
         {
           headers: { 'Content-Type': 'application/json' },
