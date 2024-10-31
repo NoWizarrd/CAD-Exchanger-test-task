@@ -12,4 +12,4 @@ to run frontend:
 
 Basic optimization practices were used for SEO: meta tags, semantics, Open Graph
 
-Hosted at [netlify](https://672374aa0a3d636b7d469b81--lighthearted-yeot-df8f34.netlify.app/) 
+Hosted at [netlify](https://lighthearted-yeot-df8f34.netlify.app/) 
