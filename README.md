@@ -6,7 +6,7 @@ clone repository, install dependencies (npm i).
 To start the server:
 - cd .\backend\ 
 - node .\index.js
-<br />
+
 to run frontend:
 - npm run dev
 
